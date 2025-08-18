@@ -44,22 +44,22 @@ Inclui sensores, API RESTful, dashboard com alertas inteligentes e sistema de ev
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victoregidiolira&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoregidiolira&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoregidiolira&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </div>
 
 ---
 
 ## 🌐 Onde me encontrar
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK/">
+  <a href="https://www.linkedin.com/in/victor-egidio/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:victoregidiolira@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/victoregidiolira">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -69,7 +69,7 @@ Inclui sensores, API RESTful, dashboard com alertas inteligentes e sistema de ev
 ## 🐍 Snake Game Neon (Contribuições)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/victoregidiolira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
