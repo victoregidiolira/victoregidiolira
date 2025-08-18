@@ -4,25 +4,29 @@
 ---
 
 ## ⚡ Sobre mim
-- 🔭 Atualmente trabalhando em projetos de **IA + DevOps**
-- 🌱 Estudando **Cloud, Segurança e Machine Learning**
-- ⚡ Apaixonado por tecnologia, inovação e automação
-- 🎯 Foco: criar soluções inteligentes e escaláveis
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+- ⚡ Apaixonado por aprender e me superar!
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,spring,docker,azure,postgresql,mysql,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,docker,azure,postgresql,mysql,git,linux" />
 </p>
 
 ---
 
 ## 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoregidiolira&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoregidiolira&theme=tokyonight" height="150"/>
-</p>
+<br>
+
+<div align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+<br>
 
 ---
 
