@@ -1,77 +1,45 @@
-<!-- Banner futurista -->
-<img src="https://i.imgur.com/Z8N4QjW.gif" width="100%" alt="Banner Tech Futurista">
-
-<h1 align="center">👋 Olá, eu sou o Victor Lira</h1>
-<p align="center">💻 Desenvolvedor | 🚀 DevOps | 🌐 Apaixonado por Tecnologia</p>
+<h1 align="center">👋 Olá, eu sou <span style="color:#00f5ff;">Victor Egídio</span></h1>
+<h3 align="center">🚀 Desenvolvedor | 💻 DevOps & IA | 🌍 Brasil</h3>
 
 ---
 
-## 🚀 Sobre mim
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-- ⚡ Apaixonado por melhorar e aprender!
-- 🎯 Objetivo: unir **tecnologia + inovação** para resolver problemas reais
+## ⚡ Sobre mim
+- 🔭 Atualmente trabalhando em projetos de **IA + DevOps**
+- 🌱 Estudando **Cloud, Segurança e Machine Learning**
+- ⚡ Apaixonado por tecnologia, inovação e automação
+- 🎯 Foco: criar soluções inteligentes e escaláveis
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=arduino&logoColor=white"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,spring,docker,azure,postgresql,mysql,mongodb,git,linux" />
+</p>
 
 ---
 
-## 📌 Projetos de Destaque
-
-🔹 **[TerraSegura](https://github.com/Caepena/TerraSegura)**  
-🌱 Solução IoT + IA para prevenção de deslizamentos de terra.  
-Inclui sensores, API RESTful, dashboard com alertas inteligentes e sistema de evacuação segura.  
-
-🔹 **Chatbot Multicanal (IBM Cloud + Telegram)**  
-🤖 Chatbot com integração STT/TTS, respostas personalizadas em áudio ou texto, e preferências configuráveis pelo usuário.  
-
-🔹 **DevOps Containerized Projects**  
-🐳 APIs em Java e .NET conteinerizadas com Docker, PostgreSQL e deploy em Azure.  
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoregidiolira&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoregidiolira&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoregidiolira&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoregidiolira&theme=tokyonight" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoregidiolira&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</div>
+## 🚀 Projetos em Destaque
+🔹 [🌍 TerraSegura](https://github.com/Caepena/TerraSegura) → IoT + IA para prevenção de deslizamentos  
+🔹 [⚙️ API DevOps](https://github.com/victoregidiolira) → Conteinerização com Docker + CI/CD na nuvem  
+🔹 [📊 Data Insights](https://github.com/victoregidiolira) → Análises e dashboards de ciência de dados  
 
 ---
 
 ## 🌐 Onde me encontrar
-<div align="center">
-  <a href="https://www.linkedin.com/in/victor-egidio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:victoregidiolira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/victoregidiolira">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-egidio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:victoregidiolira@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/victoregidiolira"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🐍 Snake Game Neon (Contribuições)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/victoregidiolira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-✨ *"Tecnologia não é apenas código, é o poder de criar futuros."* ✨
+<h3 align="center">⚡ "Code. Automate. Evolve." ⚡</h3>
