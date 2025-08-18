@@ -26,7 +26,15 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
   </picture>
   
+---
+
 <br>
+  
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=victoregidiolira&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true&title_color=00ff00&border_color=00ff00&text_color=00ff00&icon_color=00ff00" height="180em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoregidiolira&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=00ff00&border_color=00ff00&text_color=00ff00" height="180em" /> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
+
 
 ---
 
