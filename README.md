@@ -19,7 +19,6 @@
 ## 🚀 Projetos em Destaque
 🔹 [🌍 TerraSegura](https://github.com/Caepena/TerraSegura) → IoT + IA para prevenção de deslizamentos  
 🔹 [⚙️ API DevOps](https://github.com/victoregidiolira) → Conteinerização com Docker + CI/CD na nuvem  
-🔹 [📊 Data Insights](https://github.com/victoregidiolira) → Análises e dashboards de ciência de dados  
 
 ---
 
