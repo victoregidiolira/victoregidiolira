@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou <span style="color:#00f5ff;">Victor Egídio</span></h1>
+<h1 align="center">👋 Olá, eu sou <span style="color:#00f5ff;">Victor Egidio</span></h1>
 <h3 align="center">🚀 Desenvolvedor | 💻 DevOps & IA | 🌍 Brasil</h3>
 
 ---
