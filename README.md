@@ -28,6 +28,15 @@
 
 📊 Estatísticas
 
-<div align='center'> <!-- INÍCIO DA ANIMAÇÃO DA COBRINHA -->   <picture>     <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/victoregidiolira/victoregidiolira/output/github-contribution-grid-snake-dark.svg">     <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/victoregidiolira/victoregidiolira/output/github-contribution-grid-snake.svg">     <img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/victoregidiolira/victoregidiolira/output/github-contribution-grid-snake.svg">   </picture> <!-- FIM DA ANIMAÇÃO DA COBRINHA -->   
+<!-- 🐍 Snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victoregidiolira/victoregidiolira/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victoregidiolira/victoregidiolira/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victoregidiolira/victoregidiolira/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+<!-- 🐍 Fim da cobrinha -->
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9b59b6&height=120&section=footer"/>
