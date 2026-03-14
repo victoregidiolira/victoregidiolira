@@ -25,6 +25,7 @@
 |------------|--------------|
 | 🌍 **[TerraSegura](https://github.com/Caepena/TerraSegura)** | IoT + IA para **prevenção de deslizamentos de terra** e monitoramento inteligente |
 | ⚙️ **API DevOps** | Conteinerização com **Docker**, **CI/CD** e deploy **100% em nuvem** |
+| 💳 **[Autorizador](https://github.com/victoregidiolira/autorizador)** | API REST em **Java + Spring Boot** simulando autorizador de transações bancárias com **PostgreSQL** e **Docker** |
 
 ---
 
